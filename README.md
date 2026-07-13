@@ -19,7 +19,7 @@ This assignment served as a hands-on exploration of cloud resource management, I
 ## Repository Contents
 * `Assignment_Documentation.docx` - Contains comprehensive, step-by-step screenshots validating the deployment of the Resource Group, Storage Containers, IAM Role configurations, pipeline canvas design, and successful pipeline execution logs.
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 * **Cloud Platform:** Microsoft Azure (Portal)
 * **Orchestration:** Azure Data Factory (ADF)
 * **Storage:** Azure Blob Storage
