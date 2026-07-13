@@ -1,21 +1,21 @@
 **Title:**
-[cite_start]Azure Cloud Fundamentals and Data Pipeline Implementation using ADF [cite: 65, 66]
+Azure Cloud Fundamentals and Data Pipeline Implementation using ADF
 
 **Objective:**
-[cite_start]To understand Azure cloud concepts and build a complete data pipeline using Storage Account and Azure Data Factory. [cite: 67, 68]
+To understand Azure cloud concepts and build a complete data pipeline using Storage Account and Azure Data Factory. 
 
 ---
 
-## [cite_start]Assignment Tasks [cite: 69]
+## [cite_start]Assignment Tasks 
 
-### [cite_start]Task 1: [cite: 70]
-[cite_start]Explore Azure Portal [cite: 71]
-* [cite_start]Create a Resource Group [cite: 72]
+### [cite_start]Task 1:
+Explore Azure Portal
+* Create a Resource Group
 
-[cite_start]**Deliverable:** [cite: 73]
-[cite_start]Screenshot of Resource Group [cite: 74]
+**Deliverable:** 
+Screenshot of Resource Group
 
-[cite_start]**Screenshot:** [cite: 75]
+**Screenshot:**
 ![Screenshot of Resource Group](./images/task1-resource-group.png)
 
 ---
